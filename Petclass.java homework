@@ -1,0 +1,53 @@
+
+public class Petclass {
+	
+public static void
+main(String[] args) {
+	
+	//class information
+	
+	String Sting;
+	String 14;
+	String New York;
+	String German Shepardd;
+	
+     }
+
+}
+public class Pet {
+	public Pet() {
+		
+	}
+}
+  public static void
+main(String[] args) {
+	     Pet pet1 = new Pet();
+	     
+    }
+  
+  }
+  
+  public class Pet {
+	String name;
+	String age;
+	int location;
+	String species;
+	
+	public Pet(String petName, String petSpecies; int petAge)
+	
+	name = petName;
+	species = petSpecies;
+	age = petAge;
+  }
+  
+  public static void
+  main(String[] args) {
+	  Pet pet1 = new
+			  Pet("Sting", "Dog", 7);
+    }
+  
+  }
+	  
+	  
+	  
+  }
